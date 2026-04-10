@@ -11,4 +11,9 @@
         <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.7" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Generic\Interfaces\REST\Assemblers\" />
+      <Folder Include="Generic\Interfaces\REST\Resources\" />
+    </ItemGroup>
+
 </Project>
